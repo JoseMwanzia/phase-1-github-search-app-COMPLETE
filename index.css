@@ -8,6 +8,18 @@
   display: flex;
 }
 
-ul {
+#user-list {
   list-style: none;
+  margin: 30px;
+  padding: 20px;
+}
+
+li {
+  list-style: decimal;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  Width: 100%;
 }
